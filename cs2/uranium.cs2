@@ -1,0 +1,3 @@
+{
+  ConfigServer = get link from server as do[get ip as cmd] 
+}
